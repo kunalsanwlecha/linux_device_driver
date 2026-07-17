@@ -1,4 +1,4 @@
-obj-m := pcd.o
+obj-m := pcdrv.o
 ARCH=arm
 CROSS_COMPILE=arm-linux-gnueabihf-
 KERN_DIR = ~/workspace/ldd/source/linux_bbb_4.14/
