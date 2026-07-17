@@ -348,5 +348,5 @@ module_init(pcd_driver_init);
 module_exit(pcd_driver_cleanup);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Kiran Nayak");
+MODULE_AUTHOR("Kunal Sanwlecha");
 MODULE_DESCRIPTION("A pseudo character driver which handles n devices");
